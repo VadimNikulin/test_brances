@@ -20,3 +20,5 @@ for i in range(255):
 t.hideturtle()
 turtle.update()
 turtle.mainloop()
+
+print("Hello World")
